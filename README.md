@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zkainee
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m a Software Developer student at Koning Willem 1 College in 's Hertogenbosch.
 - 📫 You can reach out to me on Twitter: @zkaine_
 
