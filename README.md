@@ -3,7 +3,7 @@ I'm interested in back-end development & a lot of coffee.
 
 Here some information: 
 - Software Developer student
-- You can reach out to me on Twitter: @zkaine_
+- You can reach out to me on Twitter: @xkainee
 - See what I study: https://hyperskill.org/profile/165144922
 - I like coffee, snowboarding & reading
 <!---
