@@ -10,5 +10,5 @@ Here some information:
 zkainee/zkainee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Kaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkainee)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkainee)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkainee)](https://github.com/zkainee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkainee)](https://github.com/zkainee/github-readme-stats)
