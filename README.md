@@ -1,4 +1,4 @@
-Hi, I’m Kaine, 21 year old student that likes to code. 
+Hi, I’m Kaine, 22 year old student that likes to code. 
 I'm interested in back-end development & a lot of coffee. 
 
 Here some information: 
