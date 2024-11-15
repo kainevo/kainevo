@@ -1,8 +1,8 @@
 ## Hi 👋 I am Kaine
 ### English
-Software Developer and System Administrator
+Software Engineer and System Administrator
 
-Active in IT since 2016 and started as a Software Developer in 2019, where I mainly specialize in developing applications & systems.
+Active in IT since 2016 and started as a Software Engineer in 2019, where I mainly specialize in developing applications & systems.
 
 ## GitHub Stats
 <details>
