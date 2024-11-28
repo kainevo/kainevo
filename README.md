@@ -1,5 +1,4 @@
 ## Hi 👋 I am Kaine
-### English
 Software Engineer and System Administrator
 
 Active in IT since 2016 and started as a Software Engineer in 2019, where I mainly specialize in developing applications & systems.
