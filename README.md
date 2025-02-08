@@ -14,4 +14,4 @@ Active in IT since 2016 and started as a Software Engineer in 2019, where I main
 </details>
 
 ## Contact
-- 📫 Discord: **@siqnal.**
+- 📫 Discord: **@itssignal.**
